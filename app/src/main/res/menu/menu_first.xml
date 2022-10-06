@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.shikhar.unionfindapplication.FirstFragment">
+    <item
+        android:id="@+id/addconnections"
+        app:showAsAction="ifRoom"
+        android:title="Check"
+        android:orderInCategory="100"
+        android:icon="@drawable/add_connections_foreground"/>
+</menu>
